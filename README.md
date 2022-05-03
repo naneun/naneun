@@ -1,5 +1,6 @@
-### Hello 🕊️
-[![github stats](https://github-readme-stats.vercel.app/api?username=naneun)](https://github.com/anuraghazra/github-readme-stats)   
+### naneun 🕊️
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=naneun)](https://solved.ac/naneun)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naneun&show_icons=true&theme=tokyonight)  
 
 ### 📖 Certificate  
 - ADsP [데이터분석 준전문가] (2021.04)
