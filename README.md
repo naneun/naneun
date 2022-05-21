@@ -1,5 +1,5 @@
 ### naneun 🕊️
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=naneun)](https://solved.ac/naneun)  -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=naneun)](https://solved.ac/naneun)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naneun&show_icons=true&theme=tokyonight)  
 
 ### 📖 Certificate  
